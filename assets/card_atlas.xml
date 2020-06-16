@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:05b47135a14b808eede7daa1853ed454:973cea311d5a11b2afae5a83aec3fb92:aa6bc9a9546e53cf93401499a0006626$ -->
+<TextureAtlas imagePath="card_atlas.png">
+    <SubTexture name="0" x="2" y="2" width="207" height="320"/>
+    <SubTexture name="10" x="211" y="2" width="207" height="320"/>
+    <SubTexture name="100" x="420" y="2" width="207" height="320"/>
+    <SubTexture name="200" x="629" y="2" width="207" height="320"/>
+    <SubTexture name="50" x="2" y="324" width="207" height="320"/>
+    <SubTexture name="500" x="211" y="324" width="207" height="320"/>
+    <SubTexture name="animal_back" x="420" y="324" width="207" height="320"/>
+    <SubTexture name="cat" x="629" y="324" width="207" height="320"/>
+    <SubTexture name="chicken" x="2" y="646" width="207" height="320"/>
+    <SubTexture name="cow" x="211" y="646" width="207" height="320"/>
+    <SubTexture name="dog" x="420" y="646" width="207" height="320"/>
+    <SubTexture name="donkey" x="629" y="646" width="207" height="320"/>
+    <SubTexture name="drop_card" x="2" y="968" width="221" height="333"/>
+    <SubTexture name="duck" x="225" y="968" width="207" height="320"/>
+    <SubTexture name="goat" x="434" y="968" width="207" height="320"/>
+    <SubTexture name="horse" x="643" y="968" width="207" height="320"/>
+    <SubTexture name="money_back" x="2" y="1303" width="207" height="320"/>
+    <SubTexture name="pig" x="211" y="1303" width="207" height="320"/>
+    <SubTexture name="sheep" x="420" y="1303" width="207" height="320"/>
+</TextureAtlas>

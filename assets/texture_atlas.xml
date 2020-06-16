@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6bbf0f82d94f4dbe43eaf100631d9205:434e509df0f31f28616884777b497942:670aa34f306f7040ce14d4c980a54b80$ -->
+<TextureAtlas imagePath="texture_atlas.png">
+    <SubTexture name="animal_home" x="407" y="152" width="225" height="350"/>
+    <SubTexture name="auction_board" x="2" y="152" width="176" height="207"/>
+    <SubTexture name="farmer1" x="572" y="2" width="147" height="148"/>
+    <SubTexture name="farmer2" x="423" y="2" width="147" height="148"/>
+    <SubTexture name="farmer3" x="721" y="2" width="147" height="148"/>
+    <SubTexture name="farmer4" x="870" y="2" width="147" height="148"/>
+    <SubTexture name="filter_blur" x="362" y="504" width="600" height="286"/>
+    <SubTexture name="logo" x="2" y="792" width="868" height="167"/>
+    <SubTexture name="menu_button" x="37" y="2" width="59" height="49"/>
+    <SubTexture name="menu_icon_hammer" x="358" y="2" width="63" height="50"/>
+    <SubTexture name="menu_icon_invites" x="293" y="2" width="63" height="50"/>
+    <SubTexture name="menu_icon_people" x="228" y="2" width="63" height="50"/>
+    <SubTexture name="menu_icon_questionmark" x="98" y="2" width="63" height="50"/>
+    <SubTexture name="menu_icon_settings" x="163" y="2" width="63" height="50"/>
+    <SubTexture name="money_home" x="180" y="152" width="225" height="350"/>
+    <SubTexture name="star" x="2" y="2" width="33" height="31"/>
+    <SubTexture name="uitleg_donkey" x="634" y="152" width="250" height="332"/>
+    <SubTexture name="uitleg_points" x="2" y="504" width="358" height="110"/>
+</TextureAtlas>
